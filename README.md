@@ -1,6 +1,6 @@
 
 # Hey World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Adam, a Web + Mobile developer and Computer Science student @ Western University. I previously interned as a Mobile Developer @ [AGvisorPRO](https://agvisorpro.com), and am currently interning as a Software Developer at [Kinaxis](http://kinaxis.com) utilizing technologies like React-Native, React, and TypeScript.
+I'm Adam, a Web + Mobile developer and Computer Science student @ Western University. I previously interned as a Mobile Developer @ [AGvisorPRO](https://agvisorpro.com), and am currently interning as a Software Developer @ [Kinaxis](http://kinaxis.com) utilizing technologies like React-Native, React, and TypeScript.
 
 I love both native Swift and Cross-Platform Mobile Development, as well as general Full Stack Web Development. See my tech stack, below!
 
