@@ -1,5 +1,5 @@
 
-# Hey World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey World! 👋
 I'm Adam, a Web + Mobile developer and CS student @ Western University in Canada 🇨🇦
 
 I enjoy both native and cross-platform mobile development, and have considerable experience in modern web stacks also. See my tech stack, below!
