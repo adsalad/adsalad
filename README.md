@@ -1,8 +1,6 @@
 
 # Hey World! 👋
-I'm Adam, a Web + Mobile developer and CS student @ Western University in Canada 🇨🇦
-
-I enjoy both native and cross-platform mobile development, and have considerable experience in modern web stacks also. See my tech stack, below!
+I'm Adam, a Web Developer and CS grad from Western University!
 
 ### Feel free to connect on LinkedIn 🔗
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-salaymeh/)](https://linkedin.com/in/adam-salaymeh)
